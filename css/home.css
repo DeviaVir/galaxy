@@ -11,7 +11,7 @@ header {
   letter-spacing: 1px;
   padding: 3em 1em; }
   .jumbotron.opening {
-    background: #202C5F;
+    background: #39205F;
     background-size: cover; }
     .jumbotron.opening .tagline {
       color: #fff;
@@ -20,7 +20,7 @@ header {
       padding-bottom: 1em; }
 
 .cta {
-  color: #202C5F;
+  color: #39205F;
   background: #fff;
   transition: .3s;
   font-size: 1.1em; }
