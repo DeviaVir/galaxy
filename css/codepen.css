@@ -26,3 +26,7 @@ body {
 #output pre {
 	background: #fff;
 }
+
+#output pre code {
+	color: #000;
+}
