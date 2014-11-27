@@ -3,7 +3,7 @@ body {
   margin-top: 1em;
 }
 
-#css-link {
+#css-link,, #js-link {
 	display: none;
 }
 
