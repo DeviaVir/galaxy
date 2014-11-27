@@ -22,3 +22,7 @@ body {
 .embed-nav a.active:after {
 	display: none;
 }
+
+#output pre {
+	background: #fff;
+}
