@@ -1,7 +1,5 @@
 $(document).ready(function(){
-
 	$(document).pjax('header a', '#pjax-container')
-
 	$searching = $('.searching');
 	$searchbar = $('#search input');
 	$components = $('.results #components > section');
